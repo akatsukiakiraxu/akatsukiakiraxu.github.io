@@ -1,1 +1,1 @@
-# akatsukiakiraxu.github.io
+# アカツキアキラのホームページへようこそ！
