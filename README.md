@@ -1,1 +1,1 @@
-# アカツキアキラのホームページへようこそ！
+# [ようこそ！](https://akatsukiakira.me/jo)
