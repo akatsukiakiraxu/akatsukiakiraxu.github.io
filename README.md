@@ -1,4 +1,5 @@
 # [アオテック](https://akatsukiakira.me/jo)
+# POSTS
 <ul>
   {% for post in site.posts %}
     <li>
