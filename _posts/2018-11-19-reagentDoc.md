@@ -163,7 +163,7 @@ title:  "試薬 英語/中国語"
 |  | h-ALB | 人尿微量白蛋白 |
 | 药物检测 | Carbamazepine | 卡马西平 |
 |  | Digoxin | 地高辛 |
-|  |  | 洋地黄 |
+|  | Digitalis  | 洋地黄 |
 |  | Gentamicin | 庆大霉素 |
 |  | Phenobarbital | 苯巴比妥 |
 |  | Phenytoin | 苯妥英 |
