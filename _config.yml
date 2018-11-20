@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        akatsuki akira's home
+tagline:      one percent inspiration and 99 percent perspiration.
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       akatsuki akira
+  url:        https://akatsukiakira.me
 
 # Gems
 gems:
